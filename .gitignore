@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+static/
+
+sqlite3_database.db
